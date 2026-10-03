@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of isamuraii/op-dark-mode-tuning.** Not for installation: use [Packagist](https://packagist.org/packages/isamuraii/op-dark-mode-tuning) or the [upstream repository](https://github.com/iSamuraii/op-dark-mode-tuning).
 
-**0** versions archived · Latest: [`0.2`](https://github.com/flarchive/isamuraii-op-dark-mode-tuning/tree/archive/v0.2) · License: `MIT` · Flarum: `^1.0.2`
+**3** versions archived · Latest: [`0.2`](https://github.com/flarchive/isamuraii-op-dark-mode-tuning/tree/archive/v0.2) · License: `MIT` · Flarum: `^1.0.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1` | 2021-03-07 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/isamuraii-op-dark-mode-tuning/tree/archive/v0.1) |
+| `0.1.1` | 2021-03-16 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/isamuraii-op-dark-mode-tuning/tree/archive/v0.1.1) |
+| `0.2` | 2021-06-14 | `^1.0.2` | [Browse](https://github.com/flarchive/isamuraii-op-dark-mode-tuning/tree/archive/v0.2) |
 
 Catalog entry: [packages/isamuraii-op-dark-mode-tuning.json](https://github.com/flarchive/archive-index/blob/main/packages/isamuraii-op-dark-mode-tuning.json)
 
